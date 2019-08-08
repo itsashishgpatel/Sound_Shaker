@@ -12,6 +12,7 @@
 		49CE792722FBE821007E4CF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49CE792522FBE821007E4CF7 /* Main.storyboard */; };
 		49CE792922FBE822007E4CF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49CE792822FBE822007E4CF7 /* Assets.xcassets */; };
 		49CE792C22FBE822007E4CF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49CE792A22FBE822007E4CF7 /* LaunchScreen.storyboard */; };
+		49CE793422FBF31E007E4CF7 /* GaliGali.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49CE793322FBF31E007E4CF7 /* GaliGali.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		49CE792822FBE822007E4CF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49CE792B22FBE822007E4CF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49CE792D22FBE822007E4CF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49CE793322FBF31E007E4CF7 /* GaliGali.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = GaliGali.mp3; path = ../../../../Downloads/GaliGali.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		49CE792022FBE821007E4CF7 /* Sound_Shaker */ = {
 			isa = PBXGroup;
 			children = (
+				49CE793322FBF31E007E4CF7 /* GaliGali.mp3 */,
 				49CE792122FBE821007E4CF7 /* AppDelegate.swift */,
 				49CE792322FBE821007E4CF7 /* ViewController.swift */,
 				49CE792522FBE821007E4CF7 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49CE793422FBF31E007E4CF7 /* GaliGali.mp3 in Resources */,
 				49CE792C22FBE822007E4CF7 /* LaunchScreen.storyboard in Resources */,
 				49CE792922FBE822007E4CF7 /* Assets.xcassets in Resources */,
 				49CE792722FBE821007E4CF7 /* Main.storyboard in Resources */,
