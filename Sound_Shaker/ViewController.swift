@@ -88,6 +88,7 @@ class ViewController: UIViewController {
             Name.text = musicList[counter]
             cover.image = UIImage(named: musicList[counter] )
             playTheSong()
+            player.play()
         }
         
     }
@@ -103,6 +104,7 @@ class ViewController: UIViewController {
                 {
                     print(" Already at the right end")
                     playTheSong()
+                    
                     Name.text = musicList[counter]
                     cover.image = UIImage(named: musicList[counter] )
                     
