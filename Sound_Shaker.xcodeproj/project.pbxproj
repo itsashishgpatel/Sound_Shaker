@@ -13,6 +13,12 @@
 		49CE792922FBE822007E4CF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49CE792822FBE822007E4CF7 /* Assets.xcassets */; };
 		49CE792C22FBE822007E4CF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49CE792A22FBE822007E4CF7 /* LaunchScreen.storyboard */; };
 		49CE793422FBF31E007E4CF7 /* GaliGali.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49CE793322FBF31E007E4CF7 /* GaliGali.mp3 */; };
+		49CE793822FC52EB007E4CF7 /* kajra.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49CE793522FC52EB007E4CF7 /* kajra.mp3 */; };
+		49CE793922FC52EB007E4CF7 /* apna.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49CE793622FC52EB007E4CF7 /* apna.mp3 */; };
+		49CE793A22FC52EB007E4CF7 /* teri.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49CE793722FC52EB007E4CF7 /* teri.mp3 */; };
+		49CE793C22FC6D9C007E4CF7 /* Namo Namo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49CE793B22FC6D9C007E4CF7 /* Namo Namo.mp3 */; };
+		49CE793E22FC73E8007E4CF7 /* Aarambh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49CE793D22FC73E8007E4CF7 /* Aarambh.mp3 */; };
+		49CE794022FC745B007E4CF7 /* DIL CHORI.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49CE793F22FC745B007E4CF7 /* DIL CHORI.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,12 @@
 		49CE792B22FBE822007E4CF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49CE792D22FBE822007E4CF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		49CE793322FBF31E007E4CF7 /* GaliGali.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = GaliGali.mp3; path = ../../../../Downloads/GaliGali.mp3; sourceTree = "<group>"; };
+		49CE793522FC52EB007E4CF7 /* kajra.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = kajra.mp3; path = ../../../../Downloads/kajra.mp3; sourceTree = "<group>"; };
+		49CE793622FC52EB007E4CF7 /* apna.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = apna.mp3; path = ../../../../Downloads/apna.mp3; sourceTree = "<group>"; };
+		49CE793722FC52EB007E4CF7 /* teri.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = teri.mp3; path = ../../../../Downloads/teri.mp3; sourceTree = "<group>"; };
+		49CE793B22FC6D9C007E4CF7 /* Namo Namo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Namo Namo.mp3"; path = "../../../../Downloads/Namo Namo.mp3"; sourceTree = "<group>"; };
+		49CE793D22FC73E8007E4CF7 /* Aarambh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Aarambh.mp3; path = ../../../../Downloads/Aarambh.mp3; sourceTree = "<group>"; };
+		49CE793F22FC745B007E4CF7 /* DIL CHORI.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "DIL CHORI.mp3"; path = "../../../../Downloads/DIL CHORI.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,12 @@
 		49CE792022FBE821007E4CF7 /* Sound_Shaker */ = {
 			isa = PBXGroup;
 			children = (
+				49CE793622FC52EB007E4CF7 /* apna.mp3 */,
+				49CE793B22FC6D9C007E4CF7 /* Namo Namo.mp3 */,
+				49CE793522FC52EB007E4CF7 /* kajra.mp3 */,
+				49CE793D22FC73E8007E4CF7 /* Aarambh.mp3 */,
+				49CE793722FC52EB007E4CF7 /* teri.mp3 */,
+				49CE793F22FC745B007E4CF7 /* DIL CHORI.mp3 */,
 				49CE793322FBF31E007E4CF7 /* GaliGali.mp3 */,
 				49CE792122FBE821007E4CF7 /* AppDelegate.swift */,
 				49CE792322FBE821007E4CF7 /* ViewController.swift */,
@@ -126,7 +144,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				49CE793422FBF31E007E4CF7 /* GaliGali.mp3 in Resources */,
+				49CE793C22FC6D9C007E4CF7 /* Namo Namo.mp3 in Resources */,
+				49CE793822FC52EB007E4CF7 /* kajra.mp3 in Resources */,
+				49CE794022FC745B007E4CF7 /* DIL CHORI.mp3 in Resources */,
+				49CE793922FC52EB007E4CF7 /* apna.mp3 in Resources */,
 				49CE792C22FBE822007E4CF7 /* LaunchScreen.storyboard in Resources */,
+				49CE793E22FC73E8007E4CF7 /* Aarambh.mp3 in Resources */,
+				49CE793A22FC52EB007E4CF7 /* teri.mp3 in Resources */,
 				49CE792922FBE822007E4CF7 /* Assets.xcassets in Resources */,
 				49CE792722FBE821007E4CF7 /* Main.storyboard in Resources */,
 			);
